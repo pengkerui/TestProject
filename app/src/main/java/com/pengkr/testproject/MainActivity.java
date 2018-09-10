@@ -11,15 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    private void test(){
-
-    }
-
-    private void Mi_Local(){
-
-    }
-
-    private void Mi_Local2(){
-
-    }
 }
