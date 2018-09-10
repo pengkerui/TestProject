@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private void Mi_Local(){
 
     }
+
+    private void Mi_Local2(){
+
+    }
 }
